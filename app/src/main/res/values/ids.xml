@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_FirstFragment_to_SecondFragment" type="id">
+        action_FirstFragment_to_SecondFragment
+    </item>
+    <item name="action_settings" type="id">action_settings</item>
+    <item name="fab" type="id">fab</item>
+    <item name="action_SecondFragment_to_FirstFragment" type="id">
+        action_SecondFragment_to_FirstFragment
+    </item>
+</resources>
